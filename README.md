@@ -2,6 +2,7 @@
 # 👋 Olá, eu sou a Thalita
 
 🎓 Bióloga em transição de carreira para a área de tecnologia.  
+
 👩🏽‍💻Estudante de **Análise e Desenvolvimento de Sistemas** e participante do bootcamp **Generation Brasil – Full Stack Java**.  
 
 📚 Atualmente, estou desenvolvendo projetos em **Java**, **Spring Boot** e **MySQL**, com foco em criar soluções eficientes e de impacto.  
