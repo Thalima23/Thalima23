@@ -7,14 +7,14 @@ Sou bióloga e estou em transição de carreira. Sou estudante de Análise e Des
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Thalima23&theme=cobalt&show_icons=true
-    media="(prefers-color-scheme: cobalt)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Thalima23&show_icons=true&theme=cobalt"
+    media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Thalima23&show_icons=true"
-    media="(prefers-color-scheme: cobalt), (prefers-color-scheme: cobalt)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Thalima23&show_icons=true&theme=cobalt"
+    media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Thalima23&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thalima23&show_icons=true&theme=cobalt" />
 </picture>
 
 <div> 
